@@ -12,7 +12,7 @@
     {
       "identity" : "tun2sockskit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/daemooon/Tun2SocksKit.git",
+      "location" : "https://github.com/devrx5/Tun2SocksKit.git",
       "state" : {
         "revision" : "5ba39809b40d8ba4d95dc96f9bf23cd9a84b62fd",
         "version" : "2.2.0"
